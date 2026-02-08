@@ -34,7 +34,7 @@ export default function QuestionCard({ question, showAnswer }) {
       {/* Other types */}
       {["fillblank", "oneword", "short"].includes(question.type) && (
         <div className="p-3 bg-gray-100 rounded-lg">
-          Student thinks before showing answer…
+          Think the Answer.. Baccha
         </div>
       )}
 

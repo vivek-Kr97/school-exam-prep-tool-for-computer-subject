@@ -466,7 +466,85 @@ const class7Questions = [
   type: "short",
   question: "Why is cyber awareness important?",
   answer: "It helps users stay safe from online threats and data theft."
-}
+},
+
+
+
+{ id: 1, type: "truefalse", question: "Binary number system uses only digits 0 and 1.", answer: "True" },
+{ id: 2, type: "truefalse", question: "Decimal number system has base 8.", answer: "False" },
+{ id: 3, type: "truefalse", question: "Octal number system digits range from 0 to 7.", answer: "True" },
+{ id: 4, type: "truefalse", question: "Hexadecimal number system uses alphabets A to F.", answer: "True" },
+{ id: 5, type: "truefalse", question: "Binary to decimal conversion is done using positional values of 2.", answer: "True" },
+
+/* =====================
+   MS Excel
+===================== */
+
+{ id: 6, type: "truefalse", question: "MS Excel is mainly used for word processing.", answer: "False" },
+{ id: 7, type: "truefalse", question: "A worksheet consists of rows and columns.", answer: "True" },
+{ id: 8, type: "truefalse", question: "Sorting helps arrange data in ascending or descending order.", answer: "True" },
+{ id: 9, type: "truefalse", question: "Filtering hides unwanted data temporarily.", answer: "True" },
+{ id: 10, type: "truefalse", question: "Data validation allows incorrect data to be entered freely.", answer: "False" },
+
+/* =====================
+   Python Basics
+===================== */
+
+{ id: 11, type: "truefalse", question: "Python is a case-sensitive programming language.", answer: "True" },
+{ id: 12, type: "truefalse", question: "Arithmetic operators are used to perform calculations.", answer: "True" },
+{ id: 13, type: "truefalse", question: "Relational operators return only True or False.", answer: "True" },
+{ id: 14, type: "truefalse", question: "Logical operators are used without any conditions.", answer: "False" },
+{ id: 15, type: "truefalse", question: "The if statement is used for decision making in Python.", answer: "True" },
+
+/* =====================
+   Algorithm & Flowchart
+===================== */
+
+{ id: 16, type: "truefalse", question: "An algorithm is written before coding a program.", answer: "True" },
+{ id: 17, type: "truefalse", question: "Flowcharts help understand the logic of a program visually.", answer: "True" },
+{ id: 18, type: "truefalse", question: "A diamond shape in a flowchart represents a process.", answer: "False" },
+{ id: 19, type: "truefalse", question: "An algorithm must have a finite number of steps.", answer: "True" },
+{ id: 20, type: "truefalse", question: "Flowcharts are compulsory for running a program.", answer: "False" },
+
+/* =====================
+   HTML
+===================== */
+
+{ id: 21, type: "truefalse", question: "HTML stands for Hyper Text Markup Language.", answer: "True" },
+{ id: 22, type: "truefalse", question: "HTML tags are used to structure web pages.", answer: "True" },
+{ id: 23, type: "truefalse", question: "Attributes provide additional information about HTML elements.", answer: "True" },
+{ id: 24, type: "truefalse", question: "HTML alone can design attractive web pages without CSS.", answer: "False" },
+{ id: 25, type: "truefalse", question: "Background color of a webpage can be changed using CSS.", answer: "True" },
+
+/* =====================
+   CSS
+===================== */
+
+{ id: 26, type: "truefalse", question: "CSS controls the appearance of HTML elements.", answer: "True" },
+{ id: 27, type: "truefalse", question: "Inline CSS has the highest priority.", answer: "True" },
+{ id: 28, type: "truefalse", question: "Internal CSS is written inside the <body> tag.", answer: "False" },
+{ id: 29, type: "truefalse", question: "Margin controls the space outside an element.", answer: "True" },
+{ id: 30, type: "truefalse", question: "Border property defines the thickness and style of an element’s boundary.", answer: "True" },
+
+/* =====================
+   Cyber Tools
+===================== */
+
+{ id: 31, type: "truefalse", question: "Cloud computing allows data to be stored on the internet.", answer: "True" },
+{ id: 32, type: "truefalse", question: "Google Drive and OneDrive are examples of cloud storage.", answer: "True" },
+{ id: 33, type: "truefalse", question: "Google Maps can be used only for viewing maps.", answer: "False" },
+{ id: 34, type: "truefalse", question: "Cloud storage can be accessed from different devices.", answer: "True" },
+{ id: 35, type: "truefalse", question: "Internet connection is not required to use cloud services.", answer: "False" },
+
+/* =====================
+   Cyber Threats & Security
+===================== */
+
+{ id: 36, type: "truefalse", question: "Cybercrime is an illegal activity done using computers or internet.", answer: "True" },
+{ id: 37, type: "truefalse", question: "A computer virus can damage data and programs.", answer: "True" },
+{ id: 38, type: "truefalse", question: "Antivirus software helps protect the computer from malware.", answer: "True" },
+{ id: 39, type: "truefalse", question: "Sharing passwords online is a safe practice.", answer: "False" },
+{ id: 40, type: "truefalse", question: "Cybersecurity focuses on protecting systems and data.", answer: "True" }
 
 ];
 

@@ -22,6 +22,8 @@ export default function Home() {
             Practice MCQs, revise concepts, and prepare confidently for your
             computer exams from Class 5 to Class 8.
           </p>
+
+          <h3 className="mb-6"> <i>A small effort from your teacher to support you in your final exam preparation 2025-26.</i> </h3>
           <button
             onClick={() => navigate("/class-5")}
             className="bg-white text-[#FF7722] px-8 py-3 rounded-full font-semibold shadow-lg hover:scale-105 transition"
@@ -72,7 +74,7 @@ export default function Home() {
       {/* ===== EXAM INFO ===== */}
       <section className="max-w-5xl mx-auto px-6 py-12">
         <h2 className="text-2xl font-semibold mb-4">📝 About Exams</h2>
-        <ul className="list-disc pl-6 text-gray-700 space-y-2">
+        <ul className="list-disc columns-2 gap-20 flex-2 pl-6 text-gray-700 space-y-2">
           <li>Questions strictly based on school syllabus</li>
           <li>MCQs, True/False, Fill in the Blanks, and more</li>
           <li>Instant feedback for better understanding</li>

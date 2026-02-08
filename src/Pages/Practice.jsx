@@ -55,7 +55,7 @@ export default function Practice() {
   }
 
   return (
-    <div className="min-h-screen p-4 bg-gray-100 flex flex-col items-center">
+    <div className="min-h-screen pt-15 p-4 bg-gray-200 flex flex-col items-center">
       <div className="mb-4 text-lg font-semibold">
         Question {index + 1} / {questions.length}
       </div>
@@ -65,12 +65,12 @@ export default function Practice() {
         showAnswer={showAnswer}
       />
 
-      <div className="flex gap-4 mt-6 w-full max-w-md">
+      <div className="flex gap-4 mt-6 w-full max-w-md font-bold">
         <button
           onClick={() => setShowAnswer(!showAnswer)}
           className="flex-1 bg-yellow-500 text-white p-4 rounded-xl"
         >
-          👁 Toggle Answer
+          👁 See Answer
         </button>
 
         <button

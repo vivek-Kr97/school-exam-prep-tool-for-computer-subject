@@ -362,5 +362,80 @@ const class6Questions = [
   answer: "CPU controls all operations and processes data, similar to how a brain controls the body."
 }
 
+
+
+
+
+
+,
+
+
+
+{ id: 1, type: "truefalse", question: "Input devices are used to give instructions and data to the computer.", answer: "True" },
+{ id: 2, type: "truefalse", question: "The CPU is responsible only for storing data.", answer: "False" },
+{ id: 3, type: "truefalse", question: "The Control Unit controls all operations of a computer system.", answer: "True" },
+{ id: 4, type: "truefalse", question: "Output devices cannot display processed information.", answer: "False" },
+{ id: 5, type: "truefalse", question: "ALU performs arithmetic and logical operations.", answer: "True" },
+
+/* =====================
+   Windows 10
+===================== */
+
+{ id: 6, type: "truefalse", question: "Windows 10 is an operating system.", answer: "True" },
+{ id: 7, type: "truefalse", question: "Files and folders cannot be managed using Windows 10.", answer: "False" },
+{ id: 8, type: "truefalse", question: "The Start menu helps users access programs and settings.", answer: "True" },
+{ id: 9, type: "truefalse", question: "Closing a window shuts down the computer completely.", answer: "False" },
+{ id: 10, type: "truefalse", question: "Taskbar shows running applications.", answer: "True" },
+
+/* =====================
+   MS Word
+===================== */
+
+{ id: 11, type: "truefalse", question: "Header and Footer appear at the top and bottom of each page.", answer: "True" },
+{ id: 12, type: "truefalse", question: "Home tab contains tools for text formatting.", answer: "True" },
+{ id: 13, type: "truefalse", question: "Insert tab is used to save a document.", answer: "False" },
+{ id: 14, type: "truefalse", question: "Bold, Italic, and Underline are text formatting options.", answer: "True" },
+{ id: 15, type: "truefalse", question: "Formatting does not affect the appearance of text.", answer: "False" },
+
+/* =====================
+   MS PowerPoint
+===================== */
+
+{ id: 16, type: "truefalse", question: "A slide is a single page in a PowerPoint presentation.", answer: "True" },
+{ id: 17, type: "truefalse", question: "Pictures cannot be inserted into PowerPoint slides.", answer: "False" },
+{ id: 18, type: "truefalse", question: "Slide Show view is used to present slides.", answer: "True" },
+{ id: 19, type: "truefalse", question: "Normal view is mainly used for editing slides.", answer: "True" },
+{ id: 20, type: "truefalse", question: "A presentation can contain only one slide.", answer: "False" },
+
+/* =====================
+   Email
+===================== */
+
+{ id: 21, type: "truefalse", question: "Email is used to send messages electronically.", answer: "True" },
+{ id: 22, type: "truefalse", question: "An email cannot contain attachments.", answer: "False" },
+{ id: 23, type: "truefalse", question: "CC is used to send a copy of an email to others.", answer: "True" },
+{ id: 24, type: "truefalse", question: "Email works without an internet connection.", answer: "False" },
+{ id: 25, type: "truefalse", question: "Inbox stores received emails.", answer: "True" },
+
+/* =====================
+   HTML
+===================== */
+
+{ id: 26, type: "truefalse", question: "HTML is used to create web pages.", answer: "True" },
+{ id: 27, type: "truefalse", question: "<h1> tag is used to create the largest heading.", answer: "True" },
+{ id: 28, type: "truefalse", question: "<br> tag is used to insert a line break.", answer: "True" },
+{ id: 29, type: "truefalse", question: "<hr> tag inserts a horizontal line.", answer: "True" },
+{ id: 30, type: "truefalse", question: "<b>, <i>, and <u> are text formatting tags.", answer: "True" },
+
+/* =====================
+   CSS
+===================== */
+
+{ id: 31, type: "truefalse", question: "CSS stands for Cascading Style Sheets.", answer: "True" },
+{ id: 32, type: "truefalse", question: "CSS is used to add style and design to web pages.", answer: "True" },
+{ id: 33, type: "truefalse", question: "Inline CSS is written inside an HTML tag.", answer: "True" },
+{ id: 34, type: "truefalse", question: "Internal CSS is written in a separate file.", answer: "False" },
+{ id: 35, type: "truefalse", question: "External CSS helps maintain consistency across multiple pages.", answer: "True" }
+
 ];
 export default class6Questions;

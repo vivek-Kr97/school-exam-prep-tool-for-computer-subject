@@ -468,7 +468,52 @@ const class8Questions = [
   type: "short",
   question: "Why are flowcharts important?",
   answer: "Flowcharts make program logic easy to understand, debug, and communicate before coding."
-}
+},
+{ id: 1, type: "truefalse", question: "App development includes designing the user interface and writing program logic.", answer: "True" },
+{ id: 2, type: "truefalse", question: "Frontend of an app handles database storage directly.", answer: "False" },
+
+/* =====================
+   HTML
+===================== */
+
+{ id: 3, type: "truefalse", question: "Ordered lists in HTML display items with numbers or letters.", answer: "True" },
+{ id: 4, type: "truefalse", question: "Unordered lists use bullets to display list items.", answer: "True" },
+{ id: 5, type: "truefalse", question: "Description lists are created using <dl>, <dt>, and <dd> tags.", answer: "True" },
+{ id: 6, type: "truefalse", question: "HTML tables are created using only the <table> tag without rows or cells.", answer: "False" },
+{ id: 7, type: "truefalse", question: "The <a> tag is used for hyperlinking web pages.", answer: "True" },
+{ id: 8, type: "truefalse", question: "The <img> tag requires a closing tag in HTML.", answer: "False" },
+{ id: 9, type: "truefalse", question: "Audio and video files can be embedded using <audio> and <video> tags.", answer: "True" },
+{ id: 10, type: "truefalse", question: "<frame> tag is used to divide a webpage into sections.", answer: "True" },
+
+/* =====================
+   Photoshop
+===================== */
+
+{ id: 11, type: "truefalse", question: "Selection tools in Photoshop help choose a specific part of an image.", answer: "True" },
+{ id: 12, type: "truefalse", question: "Move tool is used to resize an image.", answer: "False" },
+{ id: 13, type: "truefalse", question: "Crop tool is used to remove unwanted areas of an image.", answer: "True" },
+{ id: 14, type: "truefalse", question: "Lasso tool is best suited for selecting free-hand shapes.", answer: "True" },
+
+/* =====================
+   Python
+===================== */
+
+{ id: 15, type: "truefalse", question: "Variables in Python are used to store data values.", answer: "True" },
+{ id: 16, type: "truefalse", question: "Python requires declaring variable data types before use.", answer: "False" },
+{ id: 17, type: "truefalse", question: "Arithmetic operators are used for mathematical calculations.", answer: "True" },
+{ id: 18, type: "truefalse", question: "Logical AND operator returns True if both conditions are True.", answer: "True" },
+{ id: 19, type: "truefalse", question: "Logical OR operator returns False only when both conditions are False.", answer: "True" },
+{ id: 20, type: "truefalse", question: "print() function is used to take input from the user.", answer: "False" },
+{ id: 21, type: "truefalse", question: "input() function always returns user input as a string.", answer: "True" },
+{ id: 22, type: "truefalse", question: "type() function is used to check the data type of a variable.", answer: "True" },
+
+/* =====================
+   Algorithm & Flowchart
+===================== */
+
+{ id: 23, type: "truefalse", question: "An algorithm is a step-by-step procedure to solve a problem.", answer: "True" },
+{ id: 24, type: "truefalse", question: "Flowcharts help visualize the logic of a program.", answer: "True" },
+{ id: 25, type: "truefalse", question: "Conditional statements are used to make decisions in a program.", answer: "True" }
 
 ];
 

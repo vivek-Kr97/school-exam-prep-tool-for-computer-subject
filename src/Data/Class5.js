@@ -128,6 +128,36 @@ const class5Questions = [
 { id: 98, type: "fillblank", question: "Slides can contain text and ______.", answer: "pictures" },
 { id: 99, type: "fillblank", question: "Page setup options are in ______ tab.", answer: "Layout" },
 { id: 100, type: "fillblank", question: "Computer history shows ______.", answer: "development" },
+{ id: 1, type: "truefalse", question: "The first generation of computers used vacuum tubes.", answer: "True" },
+{ id: 2, type: "truefalse", question: "All generations of computers use the same type of hardware technology.", answer: "False" },
+{ id: 3, type: "truefalse", question: "Supercomputers are used mainly for playing games and watching movies.", answer: "False" },
+{ id: 4, type: "truefalse", question: "Desktop computers are an example of personal computers.", answer: "True" },
+{ id: 5, type: "truefalse", question: "Fifth generation computers are based on artificial intelligence.", answer: "True" },
+
+{ id: 6, type: "truefalse", question: "Windows 10 desktop contains icons, taskbar, and background wallpaper.", answer: "True" },
+{ id: 7, type: "truefalse", question: "Wallpaper and desktop background are two different things.", answer: "False" },
+{ id: 8, type: "truefalse", question: "Icons on the desktop help us quickly open programs and files.", answer: "True" },
+{ id: 9, type: "truefalse", question: "Changing wallpaper affects the working speed of the computer.", answer: "False" },
+{ id: 10, type: "truefalse", question: "The taskbar is always visible on the desktop by default.", answer: "True" },
+
+{ id: 11, type: "truefalse", question: "Find and Replace tool in MS Word helps in correcting repeated words quickly.", answer: "True" },
+{ id: 12, type: "truefalse", question: "Header and Footer appear only on the first page of a document.", answer: "False" },
+{ id: 13, type: "truefalse", question: "Page orientation can be either portrait or landscape in MS Word.", answer: "True" },
+{ id: 14, type: "truefalse", question: "Margins define the printable area of a page.", answer: "True" },
+{ id: 15, type: "truefalse", question: "Printing a document always prints all pages by default.", answer: "False" },
+
+{ id: 16, type: "truefalse", question: "A PowerPoint slide is a single page of a presentation.", answer: "True" },
+{ id: 17, type: "truefalse", question: "Pictures cannot be added to a PowerPoint slide.", answer: "False" },
+{ id: 18, type: "truefalse", question: "Slide Show view is used to present slides to an audience.", answer: "True" },
+{ id: 19, type: "truefalse", question: "Shortcut key F5 is used to start a slide show from the beginning.", answer: "True" },
+{ id: 20, type: "truefalse", question: "Normal view is mainly used for presenting slides.", answer: "False" },
+
+{ id: 21, type: "truefalse", question: "The first generation of computers was very large in size.", answer: "True" },
+{ id: 22, type: "truefalse", question: "Laptop computers are more powerful than supercomputers.", answer: "False" },
+{ id: 23, type: "truefalse", question: "Home tab in MS Word contains tools for formatting text.", answer: "True" },
+{ id: 24, type: "truefalse", question: "Page size option affects how content fits on the printed page.", answer: "True" },
+{ id: 25, type: "truefalse", question: "Presentation views help users edit and organize slides efficiently.", answer: "True" },
+
 
 /* =====================================================
    One Word (101–130)
