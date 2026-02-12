@@ -11,6 +11,7 @@ export default function Class5() {
     { label: "True / False", value: "truefalse", emoji: "✅" },
     { label: "One Word", value: "oneword", emoji: "🔤" },
     { label: "Short Answer", value: "short", emoji: "📄" },
+    
   ];
 
   const startPractice = (type) => {

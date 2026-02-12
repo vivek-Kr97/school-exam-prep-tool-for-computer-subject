@@ -52,7 +52,7 @@ export default function Class8() {
                 Practice {type.label} questions for Class 8
               </p>
             </button>
-          ))}
+          ))}           
         </div>
       </div>
 

@@ -56,6 +56,34 @@ export default function Home() {
             </button>
           ))}
         </div>
+    <div className="grid mt-6 text-white  ">
+        <button 
+              onClick={() => navigate("/test-series")}
+              className="bg-blue-500 rounded-2xl shadow-lg p-6 text-left hover:scale-[1.02] hover:shadow-xl transition-all"
+            >
+              <div className="text-3xl mb-3">🧪</div>
+              <h3 className="text-lg font-bold mb-1">Mock Test</h3>
+              <p className="text-sm">
+                Mock test questions for Your practice
+              </p>
+        </button>
+    </div>
+
+
+     <div className="grid mt-6 text-white  ">
+        <button 
+              onClick={() => navigate("/answer-key")}
+              className="bg-green-500 rounded-2xl shadow-lg p-6 text-left hover:scale-[1.02] hover:shadow-xl transition-all"
+            >
+              <div className="text-3xl mb-3">🔑</div>
+              <h3 className="text-lg font-bold mb-1">Final Question Answer Key</h3>
+              <p className="text-sm">
+                Mock test questions for Your practice
+              </p>
+        </button>
+    </div>
+
+
       </section>
 
       {/* ===== ABOUT SCHOOL ===== */}

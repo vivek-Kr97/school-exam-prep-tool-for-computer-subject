@@ -6,6 +6,8 @@ import Class8 from "./Pages/Class8";
 import Home from "./Pages/Home";
 import Practice from "./Pages/Practice";
 import { useEffect } from "react";
+import TestSeries from "./Components/TestSeries";
+import Answerkey from "./Components/Answerkey";
 
 
 function App() {
@@ -18,6 +20,10 @@ function App() {
         <Route path="/class-6" element={<Class6 />} />
         <Route path="/class-7" element={<Class7 />} />
         <Route path="/class-8" element={<Class8 />} />
+        <Route path="/test-series" element={<TestSeries />} />
+        <Route path="/answer-key" element={<Answerkey />} />
+
+
         
       </Routes>
     </BrowserRouter>
