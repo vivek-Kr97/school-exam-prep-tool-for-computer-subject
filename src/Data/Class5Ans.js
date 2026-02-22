@@ -182,10 +182,10 @@ const Class5Ans = [
         qNo: 4,
         question: "Fill the empty cells (Price & Final).",
         answer: {
-          Soap: 200,
-          Copy: 200,
-          Pen: 50,
-          Final: 450
+          D2 : "= B2*C2",
+          D3 : "= B3*C3",
+          D4 : "= B4*C4",
+          C5 : "= D2 + D3 + D4"
         }
       },
       {
